@@ -1,0 +1,10 @@
+*.html
+*.mexw32
+*.mexw64
+*traj.txt
+*.log
+*.bak
+*.swp
+.tb_history
+*.mp4
+*.traj

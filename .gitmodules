@@ -1,0 +1,6 @@
+[submodule "openHubo"]
+	path = openHubo
+	url = git://github.com/daslrobotics/openHubo.git
+[submodule "openMiniHubo"]
+	path = openMiniHubo
+	url = git://github.com/daslrobotics/openMiniHubo.git
